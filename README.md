@@ -20,4 +20,4 @@ Also, I am working on various personal projects such as <a href="https://canieat
 
 ## Social networks
 
-<a href="https://www.linkedin.com/in/germainkevin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/germainkevin/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/germainkevin/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/germainkevin/" height="30" width="40" /></a>
