@@ -12,11 +12,11 @@ Also, I am working on various personal projects such as <a href="https://canieat
 
 ## Front skills
 
-<img width="32" height="32" src="images/html.png" alt="Logo HTML5" />&emsp;<img width="32" height="32" src="images/css.png" alt="Logo CSS4" />&emsp;<img width="32" height="32" src="images/javascript.png" alt="Logo Javascript" />&emsp;<img width="32" height="32" src="images/react.png" alt="Logo React" />
+<img width="32" height="32" src="https://raw.githubusercontent.com/kevin-germain/kevin-germain/main/images/html.png" alt="Logo HTML5" />&emsp;<img width="32" height="32" src="https://raw.githubusercontent.com/kevin-germain/kevin-germain/main/images/css.png" alt="Logo CSS4" />&emsp;<img width="32" height="32" src="https://raw.githubusercontent.com/kevin-germain/kevin-germain/main/images/javascript.png" alt="Logo Javascript" />&emsp;<img width="32" height="32" src="https://raw.githubusercontent.com/kevin-germain/kevin-germain/main/images/react.png" alt="Logo React" />
 
 ## Back skills
 
-<img width="32" height="32" src="images/nodejs.png" alt="Logo NodeJS" />&emsp;<img width="32" height="32" src="images/express.png" alt="Logo Express" />&emsp;<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Logo PostgreSQL" />&emsp;
+<img width="32" height="32" src="https://raw.githubusercontent.com/kevin-germain/kevin-germain/main/images/nodejs.png" alt="Logo NodeJS" />&emsp;<img width="32" height="32" src="https://raw.githubusercontent.com/kevin-germain/kevin-germain/main/images/express.png" alt="Logo Express" />&emsp;<img width="32" height="32" src="https://raw.githubusercontent.com/kevin-germain/kevin-germain/main/images/postgresql.png" alt="Logo PostgreSQL" />&emsp;
 
 ## Social networks
 
