@@ -3,14 +3,13 @@
 ## 	🙋‍♂️ About me
 
 👨🏻‍💻  My name is Kévin and I am a **Fullstack JS developer** 
-I used to work as a freelancer but today I am looking for a job **as an employee** 👨🏻‍🏫
-
-🇧🇪 **Moving to Brussels, I am looking for a job in this magnificent city**
-
-💼 Currently, I am working on the administration of **Discord bots 🤖** for a community specializing in emulation.  
-Also, I am working on various personal projects such as <a href="https://canieat.fr/" target="blank">**Can I Eat 🍔**</a>, an Allergy Friendly restaurant referral site 🍽
+I used to work as a freelancer but today I am a **Salesforce developer** at Novera Solutions 👨🏻‍🏫
 
 ## 🛠 Skills
+
+### CRM
+
+![salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
 ### Languages
 
@@ -43,8 +42,8 @@ Also, I am working on various personal projects such as <a href="https://canieat
 
 ## 🔗 Links
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://kevin-germain.fr/cv)
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://kevin-germain.fr/)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://kevin-germain.be/)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://kevin-germain.be/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/germainkevin/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kevin-germain)
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contact@kevin-germain.fr)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contact@kevin-germain.be)
